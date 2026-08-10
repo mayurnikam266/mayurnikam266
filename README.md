@@ -20,7 +20,7 @@ I obsess over the small details most people skip: the rollback plan nobody hopes
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=FF6B6B&center=true&vCenter=true&width=600&lines=Designing+zero-downtime+deployments+on+Kubernetes;Architecting+secure%2C+multi-tier+infra+on+AWS;Automating+everything+with+Terraform+%26+Ansible;Turning+infrastructure+into+something+that+just+works" alt="Typing SVG" /></a>
 </div>
 
-📫 **mayurnikam266@gmail.com**
+📫 **nikammayurdayaram@gmail.com**
 
 ---
 
