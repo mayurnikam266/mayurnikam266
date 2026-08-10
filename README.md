@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mayur%20Nikam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Site%20Reliability%20Engineering&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Triple+Red+Hat+Certified+Engineer; Infrastructure+Architect+ %7C +Automation + Craftsman;I+Build+Systems+That+Don't+Break+at+3AM" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Triple+Red+Hat+Certified+Engineer;Infrastructure+Architect+%7C+Automation+Craftsman;I+Build+Systems+That+Don't+Break+at+3AM" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=mayurnikam266&label=Profile%20Views&color=00d9ff&style=flat" alt="profile views"/>
 
